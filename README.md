@@ -5,7 +5,8 @@ __Topic: [Topic]__
 ### Brief description of project: 
 
 ### Instructions to use it: 
-  1. Download Roblox Studio:
-  2. Open this link: https://roblox.com/ (You will be redirected to Roblox Player App)
-
+  Open this link: [Click Here](https://create.roblox.com/dashboard/creations/experiences/10151887341/overview) (You will be redirected to Roblox Player App)
+     - This Link will automatically download Roblox Player to your laptop if not already downloaded.
+     - If already downloaded, Roblox Player will load normally
+  **Further Instructions ingame**
 ### Technologies used: 
