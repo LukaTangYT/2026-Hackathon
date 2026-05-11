@@ -6,6 +6,6 @@ __Topic: [Topic]__
 
 ### Instructions to use it: 
   1. Download Roblox Studio:
-  2. Open this link: [https://roblox.com/](You will be redirected to Roblox Player App)
+  2. Open this link: https://roblox.com/ (You will be redirected to Roblox Player App)
 
 ### Technologies used: 
