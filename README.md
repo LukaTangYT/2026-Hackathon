@@ -7,5 +7,5 @@ __Topic: [Topic]__
 ### Instructions to use it: 
   1. Download Roblox Studio:
   2. Open this link:
-     -# You
+-# You
 ### Technologies used: 
