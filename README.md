@@ -5,5 +5,7 @@ __Topic: [Topic]__
 ### Brief description of project: 
 
 ### Instructions to use it: 
-
+  1. Download Roblox Studio:
+  2. Open this link:
+     -# You
 ### Technologies used: 
