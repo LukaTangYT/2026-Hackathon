@@ -1,6 +1,6 @@
-# 2026-Hackathon
+# Project: HELICOPTER RUSH
 *This project is for the 2026 Basis China Hackathon Network*
-__Topic: [Topic]__
+__Topic: [Beneath the surface]__
 
 ### Brief description of project: 
 
@@ -10,3 +10,5 @@ __Topic: [Topic]__
      - If already downloaded, Roblox Player will load normally
   **Further Instructions ingame**
 ### Technologies used: 
+ - Roblox Studio
+ - Roblox Player
