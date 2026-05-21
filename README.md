@@ -1,6 +1,5 @@
 # Project: TRANSPORTATION RUSH
 *This project is made for the 2026 Basis China Hackathon*
-__Topic: [Beneath the surface]__
 
 ### Brief desciption of project: 
 In this project, your aim is to drive cars, airplane, helicopters inside small caves and explore whats beneath the surfaces of the world
