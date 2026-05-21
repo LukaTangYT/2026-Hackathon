@@ -1,11 +1,12 @@
-# Project: HELICOPTER RUSH
+# Project: TRANSPORTATION RUSH
 *This project is for the 2026 Basis China Hackathon Network*
 __Topic: [Beneath the surface]__
 
 ### Brief description of project: 
+In this project, your aim is to drive cars, airplane, helicopters inside small caves and explore whats beneath the surfaces of the world
 
 ### Instructions to use it: 
-  Open this link: [Click Here](https://create.roblox.com/dashboard/creations/experiences/10151887341/overview) (You will be redirected to Roblox Player App)
+  Open this link: [Click Here](https://www.roblox.com/games/95141303333117/Transportation-Rush) (You will be redirected to Roblox Player App)
      - This Link will automatically download Roblox Player to your laptop if not already downloaded.
      - If already downloaded, Roblox Player will load normally
   **Further Instructions ingame**
